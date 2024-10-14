@@ -2,9 +2,9 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '45 21 * * *'
+    - cron: '30 09 * * *'
   workflow_dispatch:
-    branches:
+    分支:
       - main
 
 jobs:
