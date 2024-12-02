@@ -26213,70 +26213,46 @@ https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8$LR•IPV4『线路19』
 https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv$LR•IPV4『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="星空卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/星空卫视.png" group-title="港·澳·台",星空卫视
 http://114.105.187.47:9901/tsfile/live/0117_1.m3u8$LR•IPV4『线路21』
-#EXTINF:-1 tvg-id="1" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-https://litv.zapi.us.kg/?id=4gtv-4gtv002$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-https://litv.zapi.us.kg/?id=4gtv-4gtv155$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-rtmp://220.130.201.73/sat/tv051$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-rtmp://f13h.mine.nu/sat/tv051$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-p3p://108.181.32.169:57203/64251dd200003544ea55fe1c5eb00e42$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-http://litv.zapi.us.kg/?id=4gtv-4gtv002$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="港·澳·台",民视
-http://37.27.111.214:8080/live/6/hls.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一台.png" group-title="港·澳·台",民视第一台
-https://litv.zapi.us.kg/?id=4gtv-4gtv003$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="港·澳·台",民视新闻台
-https://litv.zapi.us.kg/?id=litv-ftv13$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="港·澳·台",民视新闻台
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="港·澳·台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="港·澳·台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="1" tvg-name="中视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中视.png" group-title="港·澳·台",中视
-https://litv.zapi.us.kg/?id=4gtv-4gtv040$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://mohdtv.com:8880/live/ALLChannels1ae470dcccd5/61323333/71042.ts$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/3ca7183n06/asdf23e32/71042.ts$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/71042.ts$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/71042.ts$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="中天亚洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲台.png" group-title="港·澳·台",中天亚洲台
-https://stream1.freetv.fun/32bcd132d0ad2c3bb14e2d59aeff96c7bbd5ab01eb583b4d61215e1db1378730.ctv$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="港·澳·台",华视
-https://litv.zapi.us.kg/?id=4gtv-4gtv041$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="港·澳·台",华视
-rtmp://f13h.mine.nu/sat/tv111$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-https://litv.zapi.us.kg/?id=4gtv-4gtv052$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv052$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-http://103.193.151.158:8500/live.m3u8?c=7$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-http://37.27.111.214:8080/live/8/hls.m3u8$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-https://stream1.freetv.fun/hua-shi-2.m3u8$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="港·澳·台",华视新闻
-http://211.72.65.236:8503/.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="靖天资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯台.png" group-title="港·澳·台",靖天资讯台
-https://litv.zapi.us.kg/?id=4gtv-4gtv065$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻台.png" group-title="港·澳·台",寰宇新闻台
-https://litv.zapi.us.kg/?id=litv-longturn14$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻台湾台.png" group-title="港·澳·台",寰宇新闻台湾台
-https://litv.zapi.us.kg/?id=litv-longturn15$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="民視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視.png" group-title="港·澳·台",民視
+http://37.27.111.214:8080/live/6/hls.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視.png" group-title="港·澳·台",民視
+rtmp://f13h.mine.nu/sat/tv051$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視.png" group-title="港·澳·台",民視
+http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視第一台.png" group-title="港·澳·台",民視第一台
+http://fm1077.serv00.net/Smart.php?id=lunghuajingdian_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="民視新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視新聞台.png" group-title="港·澳·台",民視新聞台
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民視新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民視新聞台.png" group-title="港·澳·台",民視新聞台
+http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="中視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中視.png" group-title="港·澳·台",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中視.png" group-title="港·澳·台",中視
+http://37.27.111.214:8080/live/7/hls.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中視.png" group-title="港·澳·台",中視
+rtmp://f13h.mine.nu/sat/tv091$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中視.png" group-title="港·澳·台",中視
+http://fm1077.serv00.net/Smart.php?id=zhongshihd_twn$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="中視新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中視新聞台.png" group-title="港·澳·台",中視新聞台
+http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="中天新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新聞台.png" group-title="港·澳·台",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="中天亞洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亞洲台.png" group-title="港·澳·台",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天亞洲台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亞洲台.png" group-title="港·澳·台",中天亞洲台
+http://fm1077.serv00.net/Smart.php?id=ctiasia_twn$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="華視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/華視.png" group-title="港·澳·台",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="華視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/華視.png" group-title="港·澳·台",華視
+http://37.27.111.214:8080/live/8/hls.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="華視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/華視.png" group-title="港·澳·台",華視
+http://fm1077.serv00.net/Smart.php?id=ctshd_twn$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新聞台.png" group-title="港·澳·台",寰宇新聞台
+http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新聞台灣台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新聞台灣台.png" group-title="港·澳·台",寰宇新聞台灣台
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇財經台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇財經台.png" group-title="港·澳·台",寰宇財經台
+http://fm1077.serv00.net/Smart.php?id=huanyutaiwan_twn$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="港·澳·台",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="TVBS" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/TVBS.png" group-title="港·澳·台",TVBS
@@ -26397,50 +26373,18 @@ https://stream1.freetv.fun/san-li-xin-wen-5.ctv$LR•IPV4『线路8』
 https://stream1.freetv.fun/san-li-xin-wen-4.m3u8$LR•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="三立新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立新闻.png" group-title="港·澳·台",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-3.m3u8$LR•IPV4『线路10』
-#EXTINF:-1 tvg-id="1" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="港·澳·台",台视
-https://litv.zapi.us.kg/?id=4gtv-4gtv066$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="港·澳·台",台视
-rtmp://220.130.201.73/sat/tv071$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="台视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视.png" group-title="港·澳·台",台视
-rtmp://f13h.mine.nu/sat/tv071$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="港·澳·台",台视新闻台
-https://live.wcetv.com/hls/master-ttvnews.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="港·澳·台",台视新闻台
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://litv.zapi.us.kg/?id=4gtv-4gtv152$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://37.27.111.214:8080/live/20/hls.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://211.72.65.236:8540/.m3u8$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv152$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-p3p://108.181.32.169:57203/64251f9700046520ea5ce8b85b6c11da$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-p3p://167.114.175.6:55331/61468afa0005b339ea7014d376a616f3$LR•IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$LR•IPV4『线路9』
-#EXTINF:-1 tvg-id="10" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8$LR•IPV4『线路10』
-#EXTINF:-1 tvg-id="11" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv$LR•IPV4『线路11』
-#EXTINF:-1 tvg-id="12" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv$LR•IPV4『线路12』
-#EXTINF:-1 tvg-id="13" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$LR•IPV4『线路13』
-#EXTINF:-1 tvg-id="14" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="港·澳·台",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$LR•IPV4『线路14』
-#EXTINF:-1 tvg-id="1" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森财经新闻.png" group-title="港·澳·台",东森财经新闻
-https://litv.zapi.us.kg/?id=4gtv-4gtv153$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="东森财经新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森财经新闻.png" group-title="港·澳·台",东森财经新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv153$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/年代新闻.png" group-title="港·澳·台",年代新闻
-http://211.72.65.236:8539/.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="台視" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台視.png" group-title="港·澳·台",台視
+http://fm1077.serv00.net/Smart.php?id=ttv_taiwan$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="台視新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台視新聞台.png" group-title="港·澳·台",台視新聞台
+http://fm1077.serv00.net/Smart.php?id=ttvnews_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="東森新聞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/東森新聞.png" group-title="港·澳·台",東森新聞
+http://37.27.111.214:8080/live/20/hls.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="東森新聞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/東森新聞.png" group-title="港·澳·台",東森新聞
+http://fm1077.serv00.net/Smart.php?id=ettvnews$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="東森財經新聞" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/東森財經新聞.png" group-title="港·澳·台",東森財經新聞
+http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="非凡新聞台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新聞台.png" group-title="港·澳·台",非凡新聞台
+http://fm1077.serv00.net/Smart.php?id=feifannews_twn$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="J2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/J2.png" group-title="港·澳·台",J2
 http://fm1077.serv00.net/Smart.php?id=j2_twn$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="J2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/J2.png" group-title="港·澳·台",J2
@@ -26571,84 +26515,8 @@ http://125.227.210.55:8155/VideoInput/play.ts$LR•IPV4『线路13』
 rtmp://220.130.201.73/sat/tv701$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="纬来育乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/纬来育乐.png" group-title="港·澳·台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvzhonghe$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-p3p://108.181.32.169:57203/64253f6e0002d287ead9482831323a6d$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-p3p://167.114.175.6:55331/5fe8c5570001412994347b4506da6ebb$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-http://211.72.65.236:8524/.m3u8$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="东森综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森综合.png" group-title="港·澳·台",东森综合
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://171.108.239.99:8181/tsfile/live/1023_1.m3u8?key=txiptv$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-rtmp://f13h.mine.nu/sat/tv331$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvsuper$LR•IPV4『线路9』
-#EXTINF:-1 tvg-id="10" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-p3p://167.114.175.6:55331/65e43d00000ee2b594beb4e956c7337a$LR•IPV4『线路10』
-#EXTINF:-1 tvg-id="11" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-p3p://167.114.175.6:55331/6388b74e000e69875f479f207662566b$LR•IPV4『线路11』
-#EXTINF:-1 tvg-id="12" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-6.m3u8$LR•IPV4『线路12』
-#EXTINF:-1 tvg-id="13" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路13』
-#EXTINF:-1 tvg-id="14" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8$LR•IPV4『线路14』
-#EXTINF:-1 tvg-id="15" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路15』
-#EXTINF:-1 tvg-id="16" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv$LR•IPV4『线路16』
-#EXTINF:-1 tvg-id="17" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路17』
-#EXTINF:-1 tvg-id="18" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="港·澳·台",东森超视
-https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路18』
-#EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-p3p://108.181.32.169:57203/64253899000a078deabe99ff587050b0$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-p3p://167.114.175.6:55331/62c103a5000b5a66a4eacca77822079a$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-https://stream1.freetv.fun/dong-sen-dian-ying-4.m3u8$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-https://stream1.freetv.fun/dong-sen-dian-ying-3.m3u8$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="8" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://171.108.239.98:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路8』
-#EXTINF:-1 tvg-id="9" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路9』
-#EXTINF:-1 tvg-id="10" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv$LR•IPV4『线路10』
-#EXTINF:-1 tvg-id="11" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路11』
-#EXTINF:-1 tvg-id="12" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476995.ts$LR•IPV4『线路12』
-#EXTINF:-1 tvg-id="13" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$LR•IPV4『线路13』
-#EXTINF:-1 tvg-id="14" tvg-name="东森电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森电影.png" group-title="港·澳·台",东森电影
-http://iptv12k.com:35461/live/test167/12345/1254.m3u8$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="1" tvg-name="靖天资讯" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/靖天资讯.png" group-title="港·澳·台",靖天资讯
+https://litv.zapi.us.kg/?id=4gtv-4gtv065$LR•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾台.png" group-title="港·澳·台",民视台湾台
 https://litv.zapi.us.kg/?id=4gtv-4gtv001$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="民视台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾台.png" group-title="港·澳·台",民视台湾台
