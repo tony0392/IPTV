@@ -1,29 +1,29 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u",    
-    "https://www.mytvsuper.xyz/m3u/Live.m3u",
-    "https://raw.githubusercontent.com/HerbertHe/iptv-sources/refs/heads/gh-pages/all.m3u",
-    "http://175.178.251.183:6689/channel.txt",
+    "https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u",
+    "http://175.178.251.183:6689/aktvlive.txt"， 
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
+    "https://live.zhoujie218.top/tv/iptv4.txt",
+    "https://www.mytvsuper.xyz/m3u/Live.m3u",
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
-    "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
-    "https://v.nxog.top/m/tv/1/",
-    "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
+    "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
     "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
-]
-announcements = [
-   
+    "https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.txt",
+    "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+    "https://fm1077.serv00.net/SmartTV.m3u",
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
 
 url_blacklist = [
@@ -41,9 +41,24 @@ url_blacklist = [
     "111.230.30.193",
     "148.135.93.213:81",
     "live.goodiptv.club",
-    "iptv.luas.edu.cn"
+    "iptv.luas.edu.cn",
+    "[2409:8087:2001:20:2800:0:df6e:eb22]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb23]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/",
+    "[2409:8087:2001:20:2800:0:df6e:eb1d]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb24]",
+    "2409:8087:2001:20:2800:0:df6e:eb25]:80",
+    "[2409:8087:2001:20:2800:0:df6e:eb27]"
 ]
 
+announcements = [
+    {
+        "channel": "公告",
+        "entries": [
+            {"name": "张俊峰个人项目", "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E4%B8%BB%E8%A7%92.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
+        ]
+    }
+]
 
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
