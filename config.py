@@ -1,4 +1,4 @@
-ip_version_priority = "ipv6"
+ip_version_priority = "ipv4"
 
 source_urls = [
     "https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u",
