@@ -26,12 +26,7 @@ source_urls = [
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
 announcements = [
-    {
-        "channel": "公告",
-        "entries": [
-            {"name": None, "url": "https://gitlab.com/lr77/IPTV/-/raw/main/%E8%B5%B7%E9%A3%8E%E4%BA%86.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"}
-        ]
-    }
+   
 ]
 
 url_blacklist = [
