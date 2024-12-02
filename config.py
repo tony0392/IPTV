@@ -2,6 +2,7 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u",    
+    "https://www.mytvsuper.xyz/m3u/Live.m3u",
     "http://175.178.251.183:6689/channel.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
