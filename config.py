@@ -12,7 +12,7 @@ source_urls = [
     "http://home.jundie.top:81/Cat/tv/live.txt",
     "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt",
     "https://fm1077.serv00.net/SmartTV.m3u",
-    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+    "+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
     
 ]
 
