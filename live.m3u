@@ -28085,6 +28085,22 @@ http://fm1077.serv00.net/Smart.php?id=jade_twn$LR•IPV4『线路53』
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="谢谢合作",明珠台
 http://209.141.54.128:52055/mytvsuper/P$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="Now星影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now星影.png" group-title="谢谢合作",Now星影
+http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Now星影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now星影.png" group-title="谢谢合作",Now星影
+http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="Now星影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now星影.png" group-title="谢谢合作",Now星影
+http://205.185.123.236:8899/1/now/stream.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="Now星影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now星影.png" group-title="谢谢合作",Now星影
+https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="1" tvg-name="Now爆谷" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now爆谷.png" group-title="谢谢合作",Now爆谷
+http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="Now爆谷" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now爆谷.png" group-title="谢谢合作",Now爆谷
+https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="Now爆谷" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now爆谷.png" group-title="谢谢合作",Now爆谷
+http://205.185.123.236:8899/1/baogutai/baogu.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="Now爆谷" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Now爆谷.png" group-title="谢谢合作",Now爆谷
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="东森综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森综合.png" group-title="谢谢合作",东森综合
 https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东森综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森综合.png" group-title="谢谢合作",东森综合
@@ -28177,36 +28193,144 @@ http://litv.zapi.us.kg/?id=4gtv-4gtv002$LR•IPV4『线路6』
 http://37.27.111.214:8080/live/6/hls.m3u8$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一台.png" group-title="谢谢合作",民视第一台
 https://litv.zapi.us.kg/?id=4gtv-4gtv003$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻台.png" group-title="谢谢合作",民视新闻台
-https://litv.zapi.us.kg/?id=litv-ftv13$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻台.png" group-title="谢谢合作",民视新闻台
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻台.png" group-title="谢谢合作",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻台.png" group-title="谢谢合作",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾台.png" group-title="谢谢合作",民视台湾台
-https://litv.zapi.us.kg/?id=4gtv-4gtv001$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="民视台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾台.png" group-title="谢谢合作",民视台湾台
-https://litv.zapi.us.kg/?id=4gtv-4gtv156$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="民视台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾台.png" group-title="谢谢合作",民视台湾台
-http://47.239.239.192/4gtv/litv.php?id=4gtv-4gtv00$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://litv.zapi.us.kg/?id=litv-ftv13$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ftvnew_taiwan$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://59.127.17.227:8542/http/61.67.128.137:8081/hls/73/815/ch51.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+p3p://108.181.32.169:51690/64c859e10007934267f487ac0fa618e0$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://litv.zapi.us.kg/?id=litv-ftv13$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-18.m3u8$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-15.m3u8$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-7.m3u8$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-8.m3u8$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477080.ts$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="18" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8$LR•IPV4『线路18』
+#EXTINF:-1 tvg-id="19" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-12.ctv$LR•IPV4『线路19』
+#EXTINF:-1 tvg-id="20" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-17.ctv$LR•IPV4『线路20』
+#EXTINF:-1 tvg-id="21" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-5.m3u8$LR•IPV4『线路21』
+#EXTINF:-1 tvg-id="22" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-6.m3u8$LR•IPV4『线路22』
+#EXTINF:-1 tvg-id="1" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+http://37.27.111.214:8080/live/5/hls.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv001$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+http://litv.zapi.us.kg/?id=4gtv-4gtv156$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://litv.zapi.us.kg/?id=4gtv-4gtv001$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://litv.zapi.us.kg/?id=4gtv-4gtv156$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://stream1.freetv.fun/min-shi-tai-wan-3.ctv$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://stream1.freetv.fun/min-shi-tai-wan-4.ctv$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://stream1.freetv.fun/min-shi-tai-wan-6.ctv$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+https://stream1.freetv.fun/min-shi-tai-wan-7.ctv$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="民视台湾" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视台湾.png" group-title="谢谢合作",民视台湾
+http://ku9.fr.to/smt.php?id=ftvtaiwan_twn$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="1" tvg-name="民视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视综艺.png" group-title="谢谢合作",民视综艺
+https://litv.zapi.us.kg/?id=4gtv-4gtv004$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视综艺.png" group-title="谢谢合作",民视综艺
+http://litv.zapi.us.kg/?id=4gtv-4gtv004$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视综艺.png" group-title="谢谢合作",民视综艺
+p3p://108.181.32.169:51690/642d012300040bf70925bb06321b0b87$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视综艺.png" group-title="谢谢合作",民视综艺
+https://stream1.freetv.fun/min-shi-zong-yi-1.ctv$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="民视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视综艺.png" group-title="谢谢合作",民视综艺
+https://stream1.freetv.fun/min-shi-zong-yi-2.ctv$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视.png" group-title="谢谢合作",中视
 https://litv.zapi.us.kg/?id=4gtv-4gtv040$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:13:54:E8&stream=571212&extension=ts$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571212&extension=ts$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://mohdtv.com:8880/live/ALLChannels1ae470dcccd5/61323333/71042.ts$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/3ca7183n06/asdf23e32/71042.ts$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="5" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/71042.ts$LR•IPV4『线路5』
-#EXTINF:-1 tvg-id="6" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-http://newlife3.wanicelife.com:8880/live/29ca11113n01/adsfer3223/71042.ts$LR•IPV4『线路6』
-#EXTINF:-1 tvg-id="7" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲台.png" group-title="谢谢合作",中天亚洲台
-https://stream1.freetv.fun/32bcd132d0ad2c3bb14e2d59aeff96c7bbd5ab01eb583b4d61215e1db1378730.ctv$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="1" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv074$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv074$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+p3p://108.181.32.169:51690/642d016e000643ab0926e0907da252ca$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv074$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+https://stream1.freetv.fun/zhong-shi-xin-wen-2.ctv$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+https://stream1.freetv.fun/zhong-shi-xin-wen-4.m3u8$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+https://stream1.freetv.fun/zhong-shi-xin-wen-5.ctv$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中视新闻.png" group-title="谢谢合作",中视新闻
+http://ku9.fr.to/smt.php?id=zhongshinews_twn$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv009$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://47.239.239.192/4gtv/litv.php?id=4gtv-4gtv009$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://59.127.17.227:8598/http/61.67.128.137:8081/hls/78/80/ch63max.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+p3p://108.181.32.169:51690/66b8a957000d4df01b530def7c6064f4$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv009$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+http://cdn.iptv8k.top/dl/jspd.php?id=1$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv009$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
+https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
+p3p://108.181.32.169:51690/64254f7e000dfed1eb1809855c5735ce$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
+https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
+http://ku9.fr.to/smt.php?id=ctiasia_twn$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/华视.png" group-title="谢谢合作",华视
 https://litv.zapi.us.kg/?id=4gtv-4gtv041$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/华视.png" group-title="谢谢合作",华视
@@ -28225,40 +28349,112 @@ http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$LR•IPV4『线路5』
 https://stream1.freetv.fun/hua-shi-2.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="华视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/华视新闻.png" group-title="谢谢合作",华视新闻
 http://211.72.65.236:8503/.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻台.png" group-title="谢谢合作",寰宇新闻台
-https://litv.zapi.us.kg/?id=litv-longturn14$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻台湾台.png" group-title="谢谢合作",寰宇新闻台湾台
-https://litv.zapi.us.kg/?id=litv-longturn15$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/TVBS新闻台.png" group-title="谢谢合作",TVBS新闻台
-http://47.239.239.192/4gtv/litv.php?id=4gtv-4gtv072$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS欢乐台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/TVBS欢乐台.png" group-title="谢谢合作",TVBS欢乐台
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="八大精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大精彩台.png" group-title="谢谢合作",八大精彩台
-http://209.141.54.128:52055/hami/OTT_LIVE_0000001528$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="八大精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大精彩台.png" group-title="谢谢合作",八大精彩台
-http://209.141.54.128:55520/litv/4gtv-4gtv034$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="八大精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大精彩台.png" group-title="谢谢合作",八大精彩台
-http://209.141.54.128:52055/litv/4gtv-4gtv034$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="八大精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大精彩台.png" group-title="谢谢合作",八大精彩台
-https://litv.zapi.us.kg/?id=4gtv-4gtv034$LR•IPV4『线路4』
-#EXTINF:-1 tvg-id="1" tvg-name="八大综艺台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大综艺台.png" group-title="谢谢合作",八大综艺台
-https://litv.zapi.us.kg/?id=4gtv-4gtv039$LR•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="三立綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三立綜合台.png" group-title="谢谢合作",三立綜合台
-http://209.141.54.128:55520/4gtv/169$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="三立綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三立綜合台.png" group-title="谢谢合作",三立綜合台
-http://209.141.54.128:52055/4gtv/169$LR•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="三立綜合台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三立綜合台.png" group-title="谢谢合作",三立綜合台
-http://fm1077.serv00.net/Smart.php?id=sanlizhonghe$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://yang-1989.eu.org/youtube/globalnewstw$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://litv.zapi.us.kg/?id=litv-longturn14$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://59.127.17.227:8547/http/61.67.128.137:8081/hls/76/818/ch62.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+p3p://108.181.32.169:51690/64295eb60008744efaf37ae07d17520b$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://litv.zapi.us.kg/?id=litv-longturn14$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=litv-longturn14$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://stream1.freetv.fun/huan-yu-xin-wen-4.m3u8$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://stream1.freetv.fun/huan-yu-xin-wen-6.m3u8$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://stream1.freetv.fun/huan-yu-xin-wen-2.m3u8$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="寰宇新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/寰宇新闻.png" group-title="谢谢合作",寰宇新闻
+http://211.72.65.236:8547/.m3u8$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/年代新闻.png" group-title="谢谢合作",年代新闻
+http://211.72.65.236:8539/.m3u8$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="八大综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大综艺.png" group-title="谢谢合作",八大综艺
+http://litv.zapi.us.kg/?id=4gtv-4gtv039$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="八大综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大综艺.png" group-title="谢谢合作",八大综艺
+https://litv.zapi.us.kg/?id=4gtv-4gtv039$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="八大综艺" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/八大综艺.png" group-title="谢谢合作",八大综艺
+https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv039$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视.png" group-title="谢谢合作",台视
 https://litv.zapi.us.kg/?id=4gtv-4gtv066$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视.png" group-title="谢谢合作",台视
 rtmp://220.130.201.73/sat/tv071$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视.png" group-title="谢谢合作",台视
 rtmp://f13h.mine.nu/sat/tv071$LR•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="台视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻台.png" group-title="谢谢合作",台视新闻台
-https://live.wcetv.com/hls/master-ttvnews.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="台视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻台.png" group-title="谢谢合作",台视新闻台
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv051$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/c1e80466d09b16dbba231914e7d90e38b5ad564c5c34497819f0b65b3c0c8ea2.m3u8$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="9" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv051$LR•IPV4『线路9』
+#EXTINF:-1 tvg-id="10" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=4gtv-4gtv051$LR•IPV4『线路10』
+#EXTINF:-1 tvg-id="11" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8$LR•IPV4『线路11』
+#EXTINF:-1 tvg-id="12" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8$LR•IPV4『线路12』
+#EXTINF:-1 tvg-id="13" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8$LR•IPV4『线路13』
+#EXTINF:-1 tvg-id="14" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8$LR•IPV4『线路14』
+#EXTINF:-1 tvg-id="15" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-13.m3u8$LR•IPV4『线路15』
+#EXTINF:-1 tvg-id="16" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-14.m3u8$LR•IPV4『线路16』
+#EXTINF:-1 tvg-id="17" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="18" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-16.m3u8$LR•IPV4『线路18』
+#EXTINF:-1 tvg-id="19" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8$LR•IPV4『线路19』
+#EXTINF:-1 tvg-id="20" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8$LR•IPV4『线路20』
+#EXTINF:-1 tvg-id="21" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8$LR•IPV4『线路21』
+#EXTINF:-1 tvg-id="22" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8$LR•IPV4『线路22』
+#EXTINF:-1 tvg-id="23" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-22.m3u8$LR•IPV4『线路23』
+#EXTINF:-1 tvg-id="24" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8$LR•IPV4『线路24』
+#EXTINF:-1 tvg-id="25" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$LR•IPV4『线路25』
+#EXTINF:-1 tvg-id="26" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8$LR•IPV4『线路26』
+#EXTINF:-1 tvg-id="27" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-6.m3u8$LR•IPV4『线路27』
+#EXTINF:-1 tvg-id="28" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+http://ku9.fr.to/smt.php?id=ttvnews_twn$LR•IPV4『线路28』
+#EXTINF:-1 tvg-id="29" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8$LR•IPV4『线路29』
+#EXTINF:-1 tvg-id="30" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8$LR•IPV4『线路30』
+#EXTINF:-1 tvg-id="31" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/台视新闻.png" group-title="谢谢合作",台视新闻
+https://stream1.freetv.fun/tai-shi-xin-wen-9.m3u8$LR•IPV4『线路31』
 #EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv152$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
@@ -28266,28 +28462,46 @@ http://37.27.111.214:8080/live/20/hls.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
 http://211.72.65.236:8540/.m3u8$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$LR•IPV4『线路4』
+http://litv.zapi.us.kg/?id=4gtv-4gtv152$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-http://litv.zapi.us.kg/?id=4gtv-4gtv152$LR•IPV4『线路5』
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews$LR•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews$LR•IPV4『线路6』
+http://59.127.17.227:8597/http/61.67.128.137:8081/hls/63/805/ch10.m3u8$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-http://59.127.17.227:8597/http/61.67.128.137:8081/hls/63/805/ch10.m3u8$LR•IPV4『线路7』
+p3p://108.181.32.169:51690/64251f9700046520ea5ce8b85b6c11da$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-p3p://108.181.32.169:51690/64251f9700046520ea5ce8b85b6c11da$LR•IPV4『线路8』
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$LR•IPV4『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8$LR•IPV4『线路9』
+https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv$LR•IPV4『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv$LR•IPV4『线路10』
+https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8$LR•IPV4『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8$LR•IPV4『线路11』
+https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$LR•IPV4『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$LR•IPV4『线路12』
+https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv$LR•IPV4『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv$LR•IPV4『线路13』
-#EXTINF:-1 tvg-id="14" tvg-name="东森新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森新闻.png" group-title="谢谢合作",东森新闻
-https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$LR•IPV4『线路14』
+https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$LR•IPV4『线路13』
 #EXTINF:-1 tvg-id="1" tvg-name="东森财经新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森财经新闻.png" group-title="谢谢合作",东森财经新闻
 https://litv.zapi.us.kg/?id=4gtv-4gtv153$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东森财经新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森财经新闻.png" group-title="谢谢合作",东森财经新闻
 http://litv.zapi.us.kg/?id=4gtv-4gtv153$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="1" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+https://litv.zapi.us.kg/?id=4gtv-4gtv010$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv010$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=feifannews_twn$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+http://59.127.17.227:8544/http/61.67.128.137:8081/hls/75/817/ch57.m3u8$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+p3p://108.181.32.169:51690/64258e8600060f7eec0e3ebd6c49020e$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+http://ku9.fr.to/smt.php?id=feifannews_twn$LR•IPV4『线路7』
+#EXTINF:-1 tvg-id="8" tvg-name="非凡新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡新闻.png" group-title="谢谢合作",非凡新闻
+https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010$LR•IPV4『线路8』
+#EXTINF:-1 tvg-id="1" tvg-name="非凡商业" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/非凡商业.png" group-title="谢谢合作",非凡商业
+https://litv.zapi.us.kg/?id=4gtv-4gtv048$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="镜电视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/镜电视新闻.png" group-title="谢谢合作",镜电视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv075$LR•IPV4
