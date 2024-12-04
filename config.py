@@ -3,7 +3,6 @@ ip_version_priority = "ipv4"
 source_urls = [
     "https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u",
     "http://120.79.4.185/new/mdlive.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
     "https://live.zhoujie218.top/tv/iptv4.txt",
     "https://www.mytvsuper.xyz/m3u/Live.m3u",
     "https://tv.youdu.fan:666/live/",
