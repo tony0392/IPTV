@@ -28153,8 +28153,20 @@ p3p://108.181.32.169:51690/64251dd200003544ea55fe1c5eb00e42$LR•IPV4『线路5�
 http://litv.zapi.us.kg/?id=4gtv-4gtv002$LR•IPV4『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视.png" group-title="谢谢合作",民视
 http://37.27.111.214:8080/live/6/hls.m3u8$LR•IPV4『线路7』
-#EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一台.png" group-title="谢谢合作",民视第一台
-https://litv.zapi.us.kg/?id=4gtv-4gtv003$LR•IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+http://37.27.111.214:8080/live/4/hls.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+http://litv.zapi.us.kg/?id=4gtv-4gtv003$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+p3p://108.181.32.169:51690/642520e900023cc4ea621083588c7092$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+https://litv.zapi.us.kg/?id=4gtv-4gtv003$LR•IPV4『线路4』
+#EXTINF:-1 tvg-id="5" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+https://stream1.freetv.fun/min-shi-di-yi-1.ctv$LR•IPV4『线路5』
+#EXTINF:-1 tvg-id="6" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+https://stream1.freetv.fun/min-shi-di-yi-2.ctv$LR•IPV4『线路6』
+#EXTINF:-1 tvg-id="7" tvg-name="民视第一" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视第一.png" group-title="谢谢合作",民视第一
+https://stream1.freetv.fun/min-shi-di-yi-3.ctv$LR•IPV4『线路7』
 #EXTINF:-1 tvg-id="1" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="民视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/民视新闻.png" group-title="谢谢合作",民视新闻
@@ -28283,6 +28295,20 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$LR•IPV4『�
 https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8$LR•IPV4『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天新闻.png" group-title="谢谢合作",中天新闻
 https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009$LR•IPV4『线路17』
+#EXTINF:-1 tvg-id="1" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天娱乐.png" group-title="谢谢合作",中天娱乐
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天娱乐.png" group-title="谢谢合作",中天娱乐
+http://59.127.17.227:8570/http/61.67.128.137:8081/hls/67/809/ch26.m3u8$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中天娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天娱乐.png" group-title="谢谢合作",中天娱乐
+p3p://108.181.32.169:51690/642525670005ee2bea739da573c134b4$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天综合.png" group-title="谢谢合作",中天综合
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8526/.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="2" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天综合.png" group-title="谢谢合作",中天综合
+http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="3" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天综合.png" group-title="谢谢合作",中天综合
+http://59.127.17.227:8559/http/61.67.128.137:8081/hls/67/809/ch25.m3u8$LR•IPV4『线路3』
+#EXTINF:-1 tvg-id="4" tvg-name="中天综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天综合.png" group-title="谢谢合作",中天综合
+p3p://108.181.32.169:51690/642d0188000d7c49092747f97ffc7c72$LR•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/中天亚洲.png" group-title="谢谢合作",中天亚洲
